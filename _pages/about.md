@@ -14,12 +14,12 @@ I’m a PhD student of Computer Science Department at [University of California,
 * Resilient and Secure Smart Home Systems
 
 
-### Education 
+## Education 
 -----------------
 * Fall 2019 - Now, Ph.D. student, Computer Science Department, UCLA
 * Fall 2015 - Spring 2019, College of Electrnoics and Information Engineering, Sichuan University
 
-### Tools
+## Tools
 -----------------
 **\* [NDN-Lite](https://github.com/named-data-iot/ndn-lite)**  
 
