@@ -12,12 +12,18 @@ I’m a PhD student of Computer Science Department at [University of California,
 
 * Lightweight Protocols for Named Data Networking of Things
 * Resilient and Secure Smart Home Systems
+* High-level APIs for NDN with Security Built-in 
 
 
 ## Education 
 -----------------
 * Fall 2019 - Now, Ph.D. student, Computer Science Department, UCLA
 * Fall 2015 - Spring 2019, College of Electrnoics and Information Engineering, Sichuan University
+
+## Teaching 
+-----------------
+* Fall 2020 - CS M51A, Logical Design of Digital Systems, UCLA
+* Winter 2021 - CS 143, Database Systems, UCLA
 
 ## Tools
 -----------------

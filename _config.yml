@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tianyuan Yu"
 title_separator          : "-"
-name                     : &name "Tianyuan Yu"
+name                     : &name "Tianyuan Yu (于天源)"
 description              : &description "Ph.D. student"
 url                      : https://tianyuan129.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
